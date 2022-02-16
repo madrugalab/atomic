@@ -1,5 +1,4 @@
 # reactjs e atomic design - atomic.
-## Projeto desenvolvido com arquitetura Atomic Design.
 
 ## Arquitetura
 
