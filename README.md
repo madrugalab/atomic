@@ -1,6 +1,6 @@
 # reactjs e atomic design - atomic.
 
-## Arquitetura
+## arquitetura
 
 ```
 src |- atoms
