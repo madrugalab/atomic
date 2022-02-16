@@ -1,4 +1,4 @@
-# reactjs e atomic design - atomic.
+# reactjs e atomic design - atomic
 
 ## arquitetura
 
